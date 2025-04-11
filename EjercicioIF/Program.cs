@@ -130,6 +130,8 @@ namespace EjercicioIF
             {
                 Console.WriteLine("La edad es igual que 20");
             }
+
+            Console.ReadKey();
         }
     }
 }
